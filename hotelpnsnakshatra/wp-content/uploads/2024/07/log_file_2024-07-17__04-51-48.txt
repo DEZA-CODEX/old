@@ -1,0 +1,227 @@
+
+---Downloaded files---
+The import files for: Island Resort were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://hotelpnsnakshatra.com
+Data file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/island-resort/content.xml
+Widget file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/island-resort/widgets.wie
+Customizer file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/island-resort/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Residences
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suites
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import lo_room_type Villas
+

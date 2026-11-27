@@ -1,0 +1,387 @@
+
+---Downloaded files---
+The import files for: Countryside Lodge were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://hotelpnsnakshatra.com
+Data file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/countryside-lodge/content.xml
+Widget file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/countryside-lodge/widgets.wie
+Customizer file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/countryside-lodge/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import lo_room_extra_services Day Spa
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import lo_room_extra_services Massage
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import lo_room_type Room
+[WARNING] Failed to import lo_room_extra_services Room Clean
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import lo_room_type Suite
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Default Kit": Invalid post type elementor_library
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+[WARNING] Failed to import "Countryside Lodge Footer": Invalid post type custom_blocks
+[WARNING] Failed to import "Countryside Lodge Header": Invalid post type custom_site_headers
+[WARNING] Failed to import "Mobile Menu": Invalid post type custom_blocks
+[WARNING] Failed to import "Cottage Room": Invalid post type loftocean_room
+[WARNING] Failed to import "Deluxe Treetop Suite": Invalid post type loftocean_room
+[WARNING] Failed to import "Vineyard View Suite": Invalid post type loftocean_room
+[WARNING] Failed to import "Popup Room Searching": Invalid post type custom_blocks
+[WARNING] Failed to import "Sticky Countryside Lodge Header": Invalid post type custom_site_headers
+[WARNING] Failed to import "Estate View Suite": Invalid post type loftocean_room
+[WARNING] Failed to import "Standard Room": Invalid post type loftocean_room
+[WARNING] Failed to import "Mountain Chalet Header": Invalid post type custom_site_headers
+[WARNING] Failed to import "Apartment Header": Invalid post type custom_site_headers
+[WARNING] Failed to import "Mountain Hotel Header": Invalid post type custom_site_headers
+
+
+---Importing widgets---
+Main Sidebar : 
+
+loftocean-widget-profile - About The Hotel - Site does not support widget
+loftocean-widget-posts - Latest News - Site does not support widget
+Tag Cloud - No Title - Imported
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

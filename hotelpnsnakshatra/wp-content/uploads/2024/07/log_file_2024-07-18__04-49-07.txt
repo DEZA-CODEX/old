@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: Countryside Lodge were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://hotelpnsnakshatra.com
+Data file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/countryside-lodge/content.xml
+Widget file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/countryside-lodge/widgets.wie
+Customizer file = /home1/velloppw/otherdomains/hotelpnsnakshatra/wp-content/themes/cozystay/demo-data/countryside-lodge/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+CozyStay Profile - About The Hotel - Imported
+CozyStay Posts - Latest News - Imported
+Tag Cloud - No Title - Widget already exists
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
