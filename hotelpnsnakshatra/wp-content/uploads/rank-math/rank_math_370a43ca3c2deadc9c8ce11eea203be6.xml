@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//hotelpnsnakshatra.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://hotelpnsnakshatra.com/custom-site-header/countryside-lodge-header/</loc>
+		<lastmod>2026-03-16T11:27:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://hotelpnsnakshatra.com/wp-content/uploads/2024/07/cropped-1-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://hotelpnsnakshatra.com/wp-content/uploads/2024/07/cropped-1-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://hotelpnsnakshatra.com/wp-content/uploads/2024/07/cropped-1-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://hotelpnsnakshatra.com/wp-content/uploads/2024/07/cropped-1-7-255x93.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://hotelpnsnakshatra.com/custom-site-header/sample-site-header/</loc>
+		<lastmod>2024-07-20T07:19:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://hotelpnsnakshatra.com/wp-content/uploads/2024/07/cropped-1-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://hotelpnsnakshatra.com/wp-content/uploads/2024/07/cropped-1-7.png</image:loc>
+		</image:image>
+	</url>
+</urlset>
